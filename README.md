@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](Bottom_up.svg)
+![alt text](ProfilePicture/Bottom_up.svg)
 
 
 
