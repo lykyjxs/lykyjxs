@@ -1,10 +1,12 @@
 ![alt text](ProfilePicture/Bottom_up.svg)
 
-![alt text](ProfilePicture/cool.gif) Brief Introduction
-👋 Hi, I'm YanKo
-📖 My research interests include Perception for Autonomous Driving and Embodied AI
-✏️ The field of AI is moving incredibly fast. Continuous learning is key to navigating this shift. Welcome to my web, where I share my projects and learning notes. Let's grow together!🤝
-📫 You can get in touch with me by email at lykyjxs@163.com
+![alt text](ProfilePicture/cool.gif) 
+
+<p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> Brief Introduction
+- 👋 Hi, I'm YanKo
+- 📖 My research interests include Perception for Autonomous Driving and Embodied AI
+- ✏️ The field of AI is moving incredibly fast. Continuous learning is key to navigating this shift. Welcome to my web, where I share my projects and learning notes. Let's grow together!🤝
+- 📫 You can get in touch with me by email at lykyjxs@163.com
 
 ---
 
