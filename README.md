@@ -1,8 +1,14 @@
-## Hi there 👋
-
 ![alt text](ProfilePicture/Bottom_up.svg)
 
+![alt text](ProfilePicture/cool.gif) Brief Introduction
+👋 Hi, I'm YanKo
+📖 My research interests include Perception for Autonomous Driving and Embodied AI
+✏️ The field of AI is moving incredibly fast. Continuous learning is key to navigating this shift. Welcome to my web, where I share my projects and learning notes. Let's grow together!🤝
+📫 You can get in touch with me by email at lykyjxs@163.com
 
+---
+
+---
 
 <!--
 **lykyjxs/lykyjxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
