@@ -1,5 +1,8 @@
 ![alt text](ProfilePicture/Bottom_up.svg)
-<p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> Brief Introduction
+
+---
+
+### <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> Brief Introduction
 
 - 👋 Hi, I'm YanKo
 
@@ -9,7 +12,7 @@
 - 📫 You can get in touch with me by email at lykyjxs@163.com
 ---
 
----
+
 
 <!--
 **lykyjxs/lykyjxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
