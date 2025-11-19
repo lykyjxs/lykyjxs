@@ -11,15 +11,13 @@
 
 - 📫 You can get in touch with me by email at lykyjxs@163.com
 ---
-
----
 ### <p><img src="ProfilePicture/100.gif" width="22" /><b> Learning Notes
 
-#### Model:
-[Transformer](https://www.yuque.com/keqingyiyang/cx4l83/transformer_bak)
-#### 3D Vision:
-
-#### Python:
+### Model:
+- [Transformer](https://www.yuque.com/keqingyiyang/cx4l83/transformer_bak)
+### 3D Vision:
+- [VINS-Fusion](https://www.yuque.com/keqingyiyang/cx4l83/9d77bd85ddaaf5e9a61914b8700a9e9a)
+### Python:
 
 ---
 
