@@ -13,11 +13,17 @@
 ---
 ### <p><img src="ProfilePicture/100.gif" width="22" /><b> Learning Notes
 
-### Model:
+### Models:
 - [Transformer](https://www.yuque.com/keqingyiyang/cx4l83/transformer_bak)
+### AI Basic:
+- [Deeplearning]()
+- [Python](https://www.yuque.com/keqingyiyang/cx4l83/python#G5qxN)
+- [CUDA](https://www.yuque.com/keqingyiyang/cx4l83/cuda)
 ### 3D Vision:
 - [VINS-Fusion](https://www.yuque.com/keqingyiyang/cx4l83/9d77bd85ddaaf5e9a61914b8700a9e9a)
-### Python:
+### Other Tools：
+- [Missing-Semester](https://www.yuque.com/keqingyiyang/cx4l83/missing-semester)
+
 
 ---
 
