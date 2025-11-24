@@ -6,7 +6,7 @@
 
 - 👋 Hi, I'm YanKo
 
-- 📖 My research interests include Perception for Autonomous Driving and Embodied AI
+- 📖 My research interests include Perception for Autonomous Driving🚗 and Embodied AI🤖
 - ✏️ The field of AI is moving incredibly fast. Continuous learning is key to navigating this shift. Welcome to my web, where I share my projects and learning notes. Let's grow together!🤝
 
 - 📫 You can get in touch with me by email at lykyjxs@163.com
@@ -17,7 +17,7 @@
 - [Transformer](https://www.yuque.com/keqingyiyang/cx4l83/transformer_bak):Architecture breakdown of the backbone behind and source code interpretation.
 - [CLIP](https://www.yuque.com/keqingyiyang/cx4l83/4d6eb20c8b4f81437cc1bd2af70e2584):A Vision-Language Model connecting text and images. Includes theoretical analysis and source code interpretation.
 #### AI Basic:
-- [Deeplearning](https://www.yuque.com/keqingyiyang/cx4l83/2ba9e03c9385939a8b3952e300be5d2b):Notes from Andrew Ng's Deep Learning Specialization.
+- [DeepLearning](https://www.yuque.com/keqingyiyang/cx4l83/2ba9e03c9385939a8b3952e300be5d2b):Notes from Andrew Ng's Deep Learning Specialization.
 - [Python](https://www.yuque.com/keqingyiyang/cx4l83/python#G5qxN):Notes from Harvard's CS50P course
 - [Pytorch]()
 - [CUDA](https://www.yuque.com/keqingyiyang/cx4l83/cuda):A brief intro to CUDA programming from School of Software and Microelectronics, PKU.
