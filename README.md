@@ -24,7 +24,7 @@
 #### 3D Vision/SLAM:
 - [VINS-Fusion](https://www.yuque.com/keqingyiyang/cx4l83/9d77bd85ddaaf5e9a61914b8700a9e9a):Visual-Inertial-GNSS SLAM. A deep dive into ROS system and multi-sensor fusion, including theoretical proofs and codebase walkthroughs.
 #### Other Tools：
-- [Missing-Semester](https://www.yuque.com/keqingyiyang/cx4l83/missing-semester)Notes from MIT course "The Missing Semester of Your CS Education," covering essential tools including Vim, Git, Shell scripting, Tmux, and pdb.
+- [Missing-Semester](https://www.yuque.com/keqingyiyang/cx4l83/missing-semester):Notes from MIT course "The Missing Semester of Your CS Education," covering essential tools including Vim, Git, Shell scripting, Tmux, and pdb.
 ---
 
 
