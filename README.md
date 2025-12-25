@@ -25,8 +25,8 @@
 - [DeepLearning](https://www.yuque.com/keqingyiyang/cx4l83/2ba9e03c9385939a8b3952e300be5d2b):Notes from Andrew Ng's Deep Learning Specialization
 - [Python](https://www.yuque.com/keqingyiyang/cx4l83/python#G5qxN):Notes from Harvard's CS50P course
 - [CUDA](https://www.yuque.com/keqingyiyang/cx4l83/cuda):A brief intro to CUDA programming from School of Software and Microelectronics, PKU
-- [PPO](https://www.yuque.com/keqingyiyang/cx4l83/ppo):Intuitive understanding of Proximal Policy Optimization in Reinforcement Learning, covering theoretical proofs and codebase walkthroughs
 - [LoRA](https://www.yuque.com/keqingyiyang/cx4l83/c55c872db7369f735c487a11a1e334ae):Intuitive understanding of Low-Rank Adaptation for large model fine-tuning
+- [PPO](https://www.yuque.com/keqingyiyang/cx4l83/ppo):Intuitive understanding of Proximal Policy Optimization in Reinforcement Learning, covering theoretical proofs and codebase walkthroughs
 - [Flow Matching](https://www.yuque.com/keqingyiyang/cx4l83/2632c8e9106a57fb9f12f41593002bd8):Intuitive understanding and derivation of Flow Matching
 #### ROS/SLAM/3D Vision:
 - [VINS-Fusion](https://www.yuque.com/keqingyiyang/cx4l83/9d77bd85ddaaf5e9a61914b8700a9e9a):Visual-Inertial-GNSS SLAM. A deep dive into ROS system and multi-sensor fusion, covering theoretical proofs and codebase walkthroughs
