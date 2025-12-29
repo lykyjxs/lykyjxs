@@ -14,24 +14,24 @@
 ### <p><img src="ProfilePicture/100.gif" width="22" /><b> Learning Notes
 
 #### Models:
-- [Transformer](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Architecture breakdown of the backbone behind and source code interpretation
-- [CLIP](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):A Vision-Language Model connecting text and images. Includes theoretical analysis and source code interpretation
-- [OpenVLA-OFT](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Vision-Language-Action model fine-tuning via Parameter-Efficient methods. Covers OFT ideas and results
-- [Pi0](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Physical Intelligence's A generalist robot foundation model based on Flow Matching.
-- [Pi0-FAST](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Introduces Frequency-space Action Sequence Tokenization. Optimized for high-frequency control and dexterous manipulation using DCT compression.
-- [Pi0.5](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Introduces multimodal web data with subtask reasoning to enable "out-of-the-box" generalization in novel home environments.
-- [Pi*0.6](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Uses Reinforcement Learning and value functions to self-correct and master complex long-time tasks.
+- [Transformer](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Architecture breakdown of the backbone behind and source code interpretation
+- [CLIP](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):A Vision-Language Model connecting text and images. Includes theoretical analysis and source code interpretation
+- [OpenVLA-OFT](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Vision-Language-Action model fine-tuning via Parameter-Efficient methods. Covers OFT ideas and results
+- [Pi0](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Physical Intelligence's A generalist robot foundation model based on Flow Matching.
+- [Pi0-FAST](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Introduces Frequency-space Action Sequence Tokenization. Optimized for high-frequency control and dexterous manipulation using DCT compression.
+- [Pi0.5](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Introduces multimodal web data with subtask reasoning to enable "out-of-the-box" generalization in novel home environments.
+- [Pi*0.6](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Uses Reinforcement Learning and value functions to self-correct and master complex long-time tasks.
 #### AI Basic:
-- [DeepLearning](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Notes from Andrew Ng's Deep Learning Specialization
-- [Python](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Notes from Harvard's CS50P course
-- [CUDA](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):A brief intro to CUDA programming from School of Software and Microelectronics, PKU
-- [LoRA](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Intuitive understanding of Low-Rank Adaptation for large model fine-tuning
-- [PPO](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Intuitive understanding of Proximal Policy Optimization in Reinforcement Learning, covering theoretical proofs and codebase walkthroughs
-- [Flow Matching](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Intuitive understanding and derivation of Flow Matching
+- [DeepLearning](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Notes from Andrew Ng's Deep Learning Specialization
+- [Python](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Notes from Harvard's CS50P course
+- [CUDA](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):A brief intro to CUDA programming from School of Software and Microelectronics, PKU
+- [LoRA](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Intuitive understanding of Low-Rank Adaptation for large model fine-tuning
+- [PPO](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Intuitive understanding of Proximal Policy Optimization in Reinforcement Learning, covering theoretical proofs and codebase walkthroughs
+- [Flow Matching](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Intuitive understanding and derivation of Flow Matching
 #### ROS/SLAM/3D Vision:
-- [VINS-Fusion](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Visual-Inertial-GNSS SLAM. A deep dive into ROS system and multi-sensor fusion, covering theoretical proofs and codebase walkthroughs
+- [VINS-Fusion](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Visual-Inertial-GNSS SLAM. A deep dive into ROS system and multi-sensor fusion, covering theoretical proofs and codebase walkthroughs
 #### Other Tools：
-- [Missing-Semester](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator# 邀请你共同编辑知识库《Yanko Lan知识库》):Notes from MIT course "The Missing Semester of Your CS Education," covering essential tools including Vim, Git, Shell scripting, Tmux, and pdb
+- [Missing-Semester](https://www.yuque.com/g/keqingyiyang/cx4l83/collaborator/join?token=Nm5guLy3a8xc8q8M&source=book_collaborator#):Notes from MIT course "The Missing Semester of Your CS Education," covering essential tools including Vim, Git, Shell scripting, Tmux, and pdb
 ---
 
 
